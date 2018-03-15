@@ -1,0 +1,33 @@
+{	
+	"investor":[
+		{
+		"name":"Investor1",
+		"walletMoney":"1000",
+		"investmentAmount":1000,
+		"investmentStartDate":"2015/10/3",
+		"trancheName":"TranchesA"
+		},
+		{
+		"name":"Investor2",
+		"walletMoney":"1000",
+		"investmentAmount":1,
+		"investmentStartDate":"2015/10/4",
+		"trancheName":"TranchesA"
+		},
+		{
+		"name":"Investor3",
+		"walletMoney":"1000",
+		"investmentAmount":500,
+		"investmentStartDate":"2015/10/10",
+		"trancheName":"TranchesB"
+		},
+		{
+		"name":"Investor4",
+		"walletMoney":"1000",
+		"investmentAmount":1100,
+		"investmentStartDate":"2015/10/25",
+		"trancheName":"TranchesB"
+		}
+	]
+}
+

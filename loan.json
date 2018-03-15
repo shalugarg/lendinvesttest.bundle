@@ -1,0 +1,19 @@
+{	
+	"tranches":[
+		{
+		"name":"TranchesA",
+		"loanStartDate":"2015/10/1",
+		"loanEndDate":"2015/11/15",
+		"interestRate":3,
+		"maximumInvestmentAllowed":1000
+		},
+		{
+		"name":"TranchesB",
+		"loanStartDate":"2015/10/1",
+		"loanEndDate":"2015/11/15",
+		"interestRate":6,
+		"maximumInvestmentAllowed":1000
+		}
+	]
+}
+
