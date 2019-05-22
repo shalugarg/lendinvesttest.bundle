@@ -1,2 +1,2 @@
-# lendinvesttest.bundle
-Test Task of lendinvest
+# investtest.bundle
+Test Task of invest
